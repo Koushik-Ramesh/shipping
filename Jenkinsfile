@@ -2,4 +2,5 @@
 
 
 env.Component="shipping"
+env.APPTYPE="nodejs"
 maven()
