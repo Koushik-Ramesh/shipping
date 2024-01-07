@@ -2,5 +2,6 @@
 
 
 env.Component="shipping"
-env.APPTYPE="nodejs"
+env.NEXUS_URL="172.31.37.89"
+env.APPTYPE="maven"
 maven()
