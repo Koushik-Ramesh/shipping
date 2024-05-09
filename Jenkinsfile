@@ -4,4 +4,5 @@
 env.Component="shipping"
 env.NEXUS_URL="172.31.37.89"
 env.APPTYPE="maven"
-maven()
+// maven()
+docker()
